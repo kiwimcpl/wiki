@@ -1,11 +1,10 @@
 # Table of contents
 
-* [KiwiMC.pl](README.md)
+* [Cześć i czołem, kiwi z rosołem.](README.md)
+* [Regulamin serwera gry](regulamin-serwera-gry.md)
 * [Lista zmian](lista-zmian.md)
-
-## Dokumenty
-
-* [Regulamin serwera gry](dokumenty/regulamin-serwera-gry.md)
+* [Zmiana nicku](zmiana-nicku.md)
+* [Mam problem z pingiem](mam-problem-z-pingiem.md)
 
 ## Gra na serwerze
 
@@ -16,12 +15,7 @@
 * [Sortowanie skrzyń](gra-na-serwerze/sortowanie-skrzyn.md)
 * [Warpy graczy](gra-na-serwerze/warpy-graczy.md)
 * [Brak ulepszenia mending (naprawa)](gra-na-serwerze/brak-ulepszenia-mending-naprawa.md)
-* [Zmiana nicku](gra-na-serwerze/zmiana-nicku.md)
 
 ## Lokacje
 
 * [Spawn](lokacje/spawn.md)
-
-***
-
-* [Mam problem z pingiem](mam-problem-z-pingiem.md)
