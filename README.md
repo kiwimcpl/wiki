@@ -2,20 +2,6 @@
 description: KiwiMC.pl - Casualowy serwer SMP nonpremium
 cover: .gitbook/assets/Screenshot 2024-04-19 at 16.30.22.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Cześć i czołem, kiwi z rosołem.
