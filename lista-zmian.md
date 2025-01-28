@@ -6,6 +6,10 @@ description: Changelog zmian na serwerze
 
 ## 2025
 
+### 28.01.2025
+
+* Losowy drop butelek z doświadczeniem z mobów uwzględnia teraz enchant looting na broni.
+
 ### 26.01.2025
 
 * Dodano małą szanse na drop butelek z doświadczeniem z zabitych mobków.
