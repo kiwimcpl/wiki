@@ -6,6 +6,10 @@ description: Changelog zmian na serwerze
 
 ## 2025
 
+### 25.08.2025
+
+* Poprawiono błąd powodujący brak odświeżania się sidebaru.
+
 ### 28.01.2025
 
 * Losowy drop butelek z doświadczeniem z mobów uwzględnia teraz enchant looting na broni.
