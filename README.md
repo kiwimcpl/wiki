@@ -10,6 +10,8 @@ coverY: 0
 Ta wiki dopiero co powstaje, jakoś od roku. Generalnie dobrze mi idzie i kiedyś skończe, jeśli tu czegoś brakuje to no cóż... kiedyś może będzie.
 {% endhint %}
 
+### Serwer SMP
+
 Casualowy serwer SMP nonpremium na wersje Minecrafta od 1.21.1 do 1.21.4. Powstały w kwietniu 2024 jako żart na prima aprilis dot. reaktywacji serwera SkyBlock KiwiMC.pl (dawniej uCraft.pl) który żył w latach 2016 - 2022.
 
 Z rzeczy o których warto wspomnieć:
@@ -19,3 +21,11 @@ Z rzeczy o których warto wspomnieć:
 * [każdy gracz może sobie zająć jakiś kawałek terenu](gra-na-serwerze/claimy.md)
 * [po utwardzonej drodze biegasz szybciej](gra-na-serwerze/system-drog.md)
 * [na serwerze niedostępny jest enchant mending a kowadła mają wyłączoną mechanikę "too expensive"](gra-na-serwerze/brak-ulepszenia-mending-naprawa.md)
+
+### Serwer SkyBlock
+
+{% hint style="info" %}
+To dopiero co powstaje, prawdopodobnie wyspy będą tam resetowane przed startem.
+{% endhint %}
+
+Wersja 1.21.8, nielimitowane rozmiarem wyspy, darmowe fly, dostępne obecnie pod `dev.kiwimc.pl`

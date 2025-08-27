@@ -20,3 +20,8 @@
 ## Lokacje
 
 * [Spawn](lokacje/spawn.md)
+
+## (skyblock) Gra na serwerze
+
+* [Zarządzanie wyspą](skyblock-gra-na-serwerze/zarzadzanie-wyspa.md)
+* [Dropy z generatora kamienia](skyblock-gra-na-serwerze/dropy-z-generatora-kamienia.md)
