@@ -2,9 +2,9 @@
 
 * [Cześć i czołem, kiwi z rosołem.](README.md)
 * [Regulamin serwera gry](regulamin.md)
-* [Lista zmian](lista-zmian.md)
-* [Zagłosuj na serwer](zaglosuj-na-serwer.md)
-* [Zmiana nicku](zmiana-nicku.md)
+* [\[SMP\] Lista zmian](lista-zmian.md)
+* [\[SMP\] Zagłosuj na serwer](zaglosuj-na-serwer.md)
+* [\[SMP\] Zmiana nicku](smp-zmiana-nicku.md)
 * [Mam problem z pingiem](mam-problem-z-pingiem.md)
 
 ## Gra na serwerze
