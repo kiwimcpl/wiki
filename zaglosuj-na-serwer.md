@@ -2,9 +2,10 @@
 description: >-
   Pomoż nam się rozwinąć, co prawda nic za to nie dostaniesz ale zajmie ci to 15
   sekund.
+hidden: true
 ---
 
-# Zagłosuj na serwer
+# \[SMP] Zagłosuj na serwer
 
 Lista stron na których możesz oddać głos na nasz serwer:
 

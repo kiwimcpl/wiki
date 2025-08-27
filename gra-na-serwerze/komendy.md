@@ -1,51 +1,10 @@
----
-description: Lista komend dostępnych na serwerze
----
-
 # Komendy
 
-## Zarządzanie kontem
+## Logowanie
 
-<table><thead><tr><th>Komenda</th><th width="277">Opis</th></tr></thead><tbody><tr><td>/changepass &#x3C;obecne hasło> &#x3C;nowe hasło></td><td>Zmiana hasła</td></tr></tbody></table>
+{% hint style="warning" %}
+Te polecenia dostępne są wyłącznie na serwerze logowania (przed wejściem w portal na spawn).
+{% endhint %}
 
-## Czat
+<table><thead><tr><th>Komenda</th><th width="277">Opis</th></tr></thead><tbody><tr><td>/changepass &#x3C;obecne hasło> &#x3C;nowe hasło></td><td>Zmiana hasła</td></tr><tr><td>/2fa add</td><td>Skonfiguruj logowanie dwuetapowe</td></tr><tr><td>/2fa remove &#x3C;kod z aplikacji></td><td>Wyłącz logowanie dwuetapowe</td></tr><tr><td>/email add &#x3C;mail> &#x3C;mail po raz drugi></td><td>Dodaj adres mailowy do swojego konta, przyda Ci się w razie gdybyś zapomniał hasło.</td></tr><tr><td>/email recover &#x3C;mail></td><td>Wykonaj reset hasła, na maila dostaniesz kod który należy wpisać w grze.</td></tr><tr><td>/email change &#x3C;stary mail> &#x3C;nowy mail></td><td>Zmień mail przypisany do konta</td></tr></tbody></table>
 
-| Komenda                    | Opis                                                                                                                                                        |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /msg \<gracz> \<wiadomość> | Wysyła prywatną wiadomość do innego gracza                                                                                                                  |
-| /r \<wiadomość>            | Odpisuje na ostatnią otrzymaną prywatną wiadomość                                                                                                           |
-| /ignore \<gracz>           | Blokuje możliwość pisania do nas prywatnych wiadomości przez innego gracza. Ukrywa także jego wiadomości na czacie                                          |
-| /msgtoggle                 | Włącza lub wyłącza możlwiość pisania do nas wiadomości prywatnych                                                                                           |
-| /rtoggle                   | Zmienia tryb działania polecenia /r - albo odpisujemy wtedy ostatniej osobie która do nas napisała albo odpisujemy ostatniej osobie do której my pisaliśmy. |
-
-## Ekonomia
-
-## Działki
-
-Więcej informacji na dedykowanej podstronie:
-
-{% content-ref url="claimy.md" %}
-[claimy.md](claimy.md)
-{% endcontent-ref %}
-
-## Teleportacja
-
-| Komenda           | Opis                                                                                                                                                                                                                   |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /tptoggle         | Włącza lub wyłącza możliwość wysyłania zapytań o teleportacje                                                                                                                                                          |
-| /tpa \<gracz>     | Wysyła zapytanie o teleportacje do innego gracza. Po jego zaakceptowaniu TY zostaniesz przeteleportowany.                                                                                                              |
-| /tpahere \<gracz> | Wysyła zapytanie o teleportacje do innego gracza. Po jego zaakceptowaniu wpisany gracz zostanie przeteleportowany DO CIEBIE.                                                                                           |
-| /tpaccept         | Akceptuje prośbę o teleportacje.                                                                                                                                                                                       |
-| /tpacancel        | Odrzuca prośbę o teleportacje.                                                                                                                                                                                         |
-| /spawn            | Teleportuje Cię na spawn.                                                                                                                                                                                              |
-| /warp             | Wyświetla listę publicznie dostępnych punktów.                                                                                                                                                                         |
-| /warp \<nazwa>    | Teleportuje Cię do konkretnego publicznie dostępnego punktu                                                                                                                                                            |
-| /tpr              | Teleportuje Cię w losowe miejsce na mapie.                                                                                                                                                                             |
-| /home             | Teleportuje Cię do domu, lub wyświetla listę domów jeśli masz więcej niż jeden.                                                                                                                                        |
-| /home \<nazwa>    | Teleportuje Cię do wybranego domu                                                                                                                                                                                      |
-| /sethome \<nazwa> | <p>Ustawia nowy dom w punkcie w którym stoisz<br><a data-footnote-ref href="#user-content-fn-1"><mark style="color:red;"><strong>To polecenie jest dostępne wyłącznie na głównej mapie (world)</strong></mark></a></p> |
-| /delhome \<nazwa> | Usuwa dom o konkretnej nazwie.                                                                                                                                                                                         |
-
-Dodatkowo pod komendą `/gwarp` znajdziesz [warpy-graczy.md](warpy-graczy.md "mention")
-
-[^1]: 

@@ -5,3 +5,5 @@ Nie korzystaj z żadnych modów umożliwiających automatyczne sortowanie skrzy�
 {% endhint %}
 
 Na serwerze wgrany jest plugin pozwalający na łatwe sortowanie skrzyń, aby to zrobić należy otworzyć skrzynie i kliknąć lewym przyciskiem w pusty slot trzymająć jednocześnie Shift.
+
+Sortowanie skrzyń możesz wyłączyć/włączyć w menu dostępnym pod `/ustawienia`.

@@ -18,7 +18,7 @@ Z rzeczy o których warto wspomnieć:
 
 * po śmierci nie tracisz nic, ani ekwipunku ani doświadczenia
 * pvp jest opcjonalne - można je włączyć lub wyłączyć poleceniem /pvp
-* [każdy gracz może sobie zająć jakiś kawałek terenu](gra-na-serwerze/claimy.md)
+* [każdy gracz może sobie zająć jakiś kawałek terenu](broken-reference)
 * [po utwardzonej drodze biegasz szybciej](gra-na-serwerze/system-drog.md)
 * [na serwerze niedostępny jest enchant mending a kowadła mają wyłączoną mechanikę "too expensive"](gra-na-serwerze/brak-ulepszenia-mending-naprawa.md)
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Brak ulepszenia mending (naprawa)
 
 {% hint style="info" %}

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Warpy graczy
 
 {% hint style="warning" %}
