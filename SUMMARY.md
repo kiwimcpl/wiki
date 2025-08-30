@@ -4,6 +4,7 @@
 * [Regulamin serwera gry](regulamin.md)
 * [\[SMP\] Zagłosuj na serwer](zaglosuj-na-serwer.md)
 * [Zmiana nicku](zmiana-nicku.md)
+* [Controlify - gra na padzie](controlify-gra-na-padzie.md)
 * [Mam problem z pingiem](mam-problem-z-pingiem.md)
 * [Pobierz mape z SMP (2024-2025)](pobierz-mape-z-smp-2024-2025.md)
 
