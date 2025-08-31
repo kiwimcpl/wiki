@@ -27,14 +27,16 @@ Domyślnie gracze korzystający z moda Controlify do gry na padzie (lub steam de
 * [https://github.com/GrimAnticheat/Grim/issues/1912](https://github.com/GrimAnticheat/Grim/issues/1912)
 * [https://github.com/GrimAnticheat/Grim/issues/1573](https://github.com/GrimAnticheat/Grim/issues/1573)
 
-Więc trzeba zastosować drobne obejście, włączyć w ustawieniach moda "Keyboard-like movement", gra będzie nieco mniej wygodna ale za to nie będzie to triggerować antycheata.
+Więc trzeba zastosować drobne obejście, włączyć w ustawieniach moda "Keyboard-like movement", gra będzie nieco mniej wygodna, ale za to nie będzie to triggerować antycheata.
 
 Więc tak:
 
 * ESC, wchodzisz w Mods, szukasz Controlify, wybierasz w nim ustawienia (po prawej stronie nad Issues i Website)
 * Wybierasz u spodu "Global Settings"
-* ![](.gitbook/assets/2025-08-30_18.55.35.png)
-* Włączasz "Keyboard-like movement"
+*
+
+    <figure><img src=".gitbook/assets/2025-08-30_18.55.35.png" alt=""><figcaption></figcaption></figure>
+* Włączasz "Keyboard-like movement" lub dodajesz serwer do whitelisty przyciskiem niżej.
 *
 
     <figure><img src=".gitbook/assets/2025-08-30_18.56.10.png" alt=""><figcaption></figcaption></figure>
