@@ -14,3 +14,7 @@
 * [Zarządzanie wyspą](gra-na-serwerze/zarzadzanie-wyspa.md)
 * [Dropy z generatora kamienia](gra-na-serwerze/dropy-z-generatora-kamienia.md)
 * [Sortowanie skrzyń](gra-na-serwerze/sortowanie-skrzyn.md)
+
+## Poradniki
+
+* [Generator kamienia](poradniki/generator-kamienia.md)

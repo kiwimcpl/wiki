@@ -22,6 +22,8 @@ layout:
 
 # Controlify - gra na padzie
 
+### **Informacje poniżej mogą są nieaktualne, gracze grający na padzie nie powinni być już cofani. W razie czego - co włączyć i gdzie macie wypisane niżej.**
+
 Domyślnie gracze korzystający z moda Controlify do gry na padzie (lub steam decku) będą cofani przez antycheat, w samym antycheacie nie ma też opcji wyłączenia tego jednego konkretnego zachowania
 
 * [https://github.com/GrimAnticheat/Grim/issues/1912](https://github.com/GrimAnticheat/Grim/issues/1912)
