@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Komendy
 
 ## Logowanie

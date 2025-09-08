@@ -1,3 +1,7 @@
+---
+icon: ruler-triangle
+---
+
 # Dodatkowe craftingi
 
 ### Blok magmy

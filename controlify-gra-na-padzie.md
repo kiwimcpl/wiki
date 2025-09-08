@@ -1,4 +1,5 @@
 ---
+icon: gamepad-modern
 cover: .gitbook/assets/pasted file.png
 coverY: 0
 layout:

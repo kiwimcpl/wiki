@@ -1,3 +1,7 @@
+---
+icon: recycle
+---
+
 # Recykling
 
 ### **Przepalanie**

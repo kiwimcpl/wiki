@@ -1,5 +1,6 @@
 ---
 description: Lew nie sprzymierza się z kojotem.
+icon: book-sparkles
 ---
 
 # Regulamin serwera gry

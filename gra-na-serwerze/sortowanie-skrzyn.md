@@ -1,3 +1,7 @@
+---
+icon: treasure-chest
+---
+
 # Sortowanie skrzyń
 
 {% hint style="danger" %}

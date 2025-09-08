@@ -1,3 +1,7 @@
+---
+icon: shop
+---
+
 # Sklepy graczy
 
 ### Kupujący/sprzedający

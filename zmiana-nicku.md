@@ -1,5 +1,6 @@
 ---
 description: Zmieniłem nick na swoim koncie Minecraft, co robić?
+icon: pen-field
 ---
 
 # Zmiana nicku

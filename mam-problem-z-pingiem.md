@@ -1,3 +1,7 @@
+---
+icon: wifi-slash
+---
+
 # Mam problem z pingiem
 
 ### Dostawca internetu, połączenie (światłowód/miedź/radio/mobilny itp.)
