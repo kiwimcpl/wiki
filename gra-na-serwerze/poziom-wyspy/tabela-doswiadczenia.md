@@ -4,6 +4,20 @@ description: >-
   doświadczenia. Wygenerowane przez Github Copilot na podstawie kodu pluginu,
   powinna być aktualna ale nie weryfikowałem dokładniej
 icon: table-list
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Tabela doświadczenia
