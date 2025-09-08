@@ -14,6 +14,9 @@
 * [Zarządzanie wyspą](gra-na-serwerze/zarzadzanie-wyspa.md)
 * [Dropy z generatora kamienia](gra-na-serwerze/dropy-z-generatora-kamienia.md)
 * [Sortowanie skrzyń](gra-na-serwerze/sortowanie-skrzyn.md)
+* [Dodatkowe craftingi](gra-na-serwerze/dodatkowe-craftingi.md)
+* [Recykling](gra-na-serwerze/recykling.md)
+* [Sklepy graczy](gra-na-serwerze/sklepy-graczy.md)
 
 ## Poradniki
 
