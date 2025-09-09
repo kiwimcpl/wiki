@@ -17,3 +17,7 @@ Aby dodać lub usunąć kogoś z wyspy wystarczy że wpiszesz `/coop <nick>`, j
 
 ### Rozszerzenie wyspy
 
+### Jak usunąć lub zresetować wyspę?
+
+Nie ma takiej możliwości i nie planujemy wprowadzenia takiej opcji.
+
