@@ -15,6 +15,7 @@
 * [Dropy z generatora kamienia](gra-na-serwerze/dropy-z-generatora-kamienia.md)
 * [Poziom wyspy](gra-na-serwerze/poziom-wyspy/README.md)
   * [Tabela doświadczenia](gra-na-serwerze/poziom-wyspy/tabela-doswiadczenia.md)
+* [Waluty na serwerze](gra-na-serwerze/waluty-na-serwerze.md)
 * [Sortowanie skrzyń](gra-na-serwerze/sortowanie-skrzyn.md)
 * [Dodatkowe craftingi](gra-na-serwerze/dodatkowe-craftingi.md)
 * [Recykling](gra-na-serwerze/recykling.md)
