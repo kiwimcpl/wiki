@@ -6,4 +6,4 @@ icon: map-location
 
 Kliknij link poniżej aby pobrać mapę:
 
-\[tu bedzie link]
+{% embed url="https://drive.google.com/file/d/1_aT2uxeJwcREd8UjWSRpPS6vEpMVJt5D/view?usp=sharing" %}
