@@ -13,6 +13,8 @@
 * [Komendy](gra-na-serwerze/komendy.md)
 * [Zarządzanie wyspą](gra-na-serwerze/zarzadzanie-wyspa/README.md)
   * [Coop - granie z kolegami](gra-na-serwerze/zarzadzanie-wyspa/coop-granie-z-kolegami.md)
+  * [Ulepszenia wyspy](gra-na-serwerze/zarzadzanie-wyspa/ulepszenia-wyspy.md)
+  * [Zmiana biomu](gra-na-serwerze/zarzadzanie-wyspa/zmiana-biomu.md)
 * [Dropy z generatora kamienia](gra-na-serwerze/dropy-z-generatora-kamienia.md)
 * [Poziom wyspy](gra-na-serwerze/poziom-wyspy/README.md)
   * [Tabela doświadczenia](gra-na-serwerze/poziom-wyspy/tabela-doswiadczenia.md)

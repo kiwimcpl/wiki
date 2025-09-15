@@ -9,7 +9,7 @@ coverY: 0
 
 ### Zarządzanie członkami wyspy
 
-Aby dodać lub usunąć kogoś z wyspy wystarczy że wpiszesz `/coop <nick>`, jeśli ta osoba jest na tej samej instancji - otrzyma powiadomienie o byciu dodanym/usuniętym.
+{% embed url="https://wiki.kiwimc.pl/gra-na-serwerze/zarzadzanie-wyspa/coop-granie-z-kolegami" %}
 
 ### Ulepszenia wyspy
 
