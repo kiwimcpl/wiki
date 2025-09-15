@@ -1,7 +1,7 @@
 ---
 description: Menu wyspy i inne takie
 icon: people-roof
-cover: ../.gitbook/assets/2025-08-27_20.10.02.png
+cover: ../../.gitbook/assets/2025-08-27_20.10.02.png
 coverY: 0
 ---
 
