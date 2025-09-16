@@ -1,8 +1,8 @@
 ---
 description: >-
   Tabela zawierająca wszystkie akcje za które wyspa może otrzymać punkty
-  doświadczenia. Wygenerowane przez Github Copilot na podstawie kodu pluginu,
-  powinna być aktualna ale nie weryfikowałem dokładniej
+  doświadczenia. Wygenerowane przez AI na podstawie kodu pluginu, ostatnia
+  aktualizacja: 16.09.2025
 icon: table-list
 layout:
   width: wide

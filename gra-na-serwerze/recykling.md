@@ -4,6 +4,10 @@ icon: recycle
 
 # Recykling
 
+{% hint style="info" %}
+Niektóre receptury posiadają szansę na wytworzenie przedmiotu, zwróć na to uwagę.
+{% endhint %}
+
 ### **Przepalanie**
 
 #### **Fragmenty skórzanej zbroi** -> **Skóra**

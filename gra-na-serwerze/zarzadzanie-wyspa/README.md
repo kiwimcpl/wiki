@@ -15,6 +15,8 @@ coverY: 0
 
 ### Zmiana biomu
 
+{% embed url="https://wiki.kiwimc.pl/gra-na-serwerze/zarzadzanie-wyspa/zmiana-biomu" %}
+
 ### Rozszerzenie wyspy
 
 ### Jak usunąć lub zresetować wyspę?
