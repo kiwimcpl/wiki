@@ -13,7 +13,7 @@ Ta wiki dopiero co powstaje. Generalnie dobrze mi idzie i kiedyś skończe, jeś
 
 ### tl;dr
 
-* Wersja 1.21.8
+* Wersja od 1.21.8 do 1.21.10 (najnowsza)
 * Adres: `kiwimc.pl`
 * Nonpremium
 * Brak mikrotransakcji
