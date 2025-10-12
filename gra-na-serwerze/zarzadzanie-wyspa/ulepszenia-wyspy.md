@@ -4,7 +4,7 @@ icon: up-long
 
 # Ulepszenia wyspy
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Menu ulepszeń wyspy znajdziesz pod poleceniem `/ulepszenia`, obecnie dostępne są dwa ulepszenia:
 

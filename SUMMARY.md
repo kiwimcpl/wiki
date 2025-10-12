@@ -28,6 +28,8 @@
 ## Poradniki
 
 * [Generator kamienia](poradniki/generator-kamienia.md)
+* [Pozyskiwanie dirtu (ziemi)](poradniki/pozyskiwanie-dirtu-ziemi.md)
+* [Pozyskiwanie gravelu (żwiru)](poradniki/pozyskiwanie-gravelu-zwiru.md)
 * [Kaktusiarka](poradniki/kaktusiarka.md)
 * [Przepalarka](poradniki/przepalarka.md)
 * [Zarabianie pieniędzy](poradniki/zarabianie-pieniedzy.md)

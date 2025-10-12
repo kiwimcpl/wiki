@@ -14,11 +14,11 @@ Niektóre receptury posiadają szansę na wytworzenie przedmiotu, zwróć na to 
 
 Możesz przepalić dowolny fragment skórzanej zbroi na skórę.
 
-| Atrybut          | Wartość                                                                                                  |
-| ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **Czas**         | 45 sekund                                                                                                |
-| **Szansa**       | 100%                                                                                                     |
-| **Zrzut ekranu** | <div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div> |
+| Atrybut          | Wartość                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Czas**         | 45 sekund                                                                                                    |
+| **Szansa**       | 100%                                                                                                         |
+| **Zrzut ekranu** | <div><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div> |
 
 #### **Siodło** -> **Skóra**
 
