@@ -20,8 +20,4 @@ Ta wiki dopiero co powstaje. Generalnie dobrze mi idzie i kiedyś skończe, jeś
 * Nielimitowane rozmiarem wyspy
 * Polecenie `/fly` dostępne dla każdego członka danej wyspy
 
-### Masz pytania na temat gry na serwerze?
-
-Zapytaj KiwiGPT, przeskanuje ono wiki serwera i da ci natychmiast odpowiedź.
-
-{% embed url="https://chatgpt.com/g/g-68bf582d23608191a3b8751cf3738f47-kiwigpt" %}
+###

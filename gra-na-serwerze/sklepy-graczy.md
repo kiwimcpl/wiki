@@ -24,8 +24,9 @@ Utworzenie sklepu kosztuje $5 a utworzyć może go jedynie właściciel danej wy
 
 1. Idź na swoją wyspę
 2. Postaw skrzynie
-3. Weź do ręki przedmiot który planujesz sprzedawać i wpisz `/shop create [cena za sztuke]`.
-4. Stworzyłeś sklep, teraz otwórz skrzynie i włóź do niej przedmioty [![Screenshot](https://github.com/koku-world/infrastructure/raw/master/images/web/docs/docs/img/2025-03-16_00.39.58.png)](https://github.com/koku-world/infrastructure/blob/master/images/web/docs/docs/img/2025-03-16_00.39.58.png)
+3. Weź do ręki JEDNĄ SZTUKĘ przedmiotu który planujesz sprzedawać i wpisz `/shop create [cena za sztuke]`.\
+   Jeśli w ręku będzie więcej niż jedna sztuka, stworzysz sklep w którym sprzedajesz x sztuk przedmiotu za wpisaną cenę, np. trzymając 40 cobbla wpisujesz `/shop create 5`, tworzysz sklep w którym sprzedajesz cobble w pakietach po 40 sztuk za $5.
+4. Stworzyłeś sklep, teraz otwórz skrzynie i włóź do niej przedmioty
 
 #### Jak zmienić cene w sklepie?
 

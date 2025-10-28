@@ -13,11 +13,15 @@ coverY: 0
 
 ### Ulepszenia wyspy
 
+{% embed url="https://wiki.kiwimc.pl/gra-na-serwerze/zarzadzanie-wyspa/ulepszenia-wyspy" %}
+
 ### Zmiana biomu
 
 {% embed url="https://wiki.kiwimc.pl/gra-na-serwerze/zarzadzanie-wyspa/zmiana-biomu" %}
 
 ### Rozszerzenie wyspy
+
+{% embed url="https://wiki.kiwimc.pl/gra-na-serwerze/zarzadzanie-wyspa/ulepszenia-wyspy" %}
 
 ### Jak usunąć lub zresetować wyspę?
 

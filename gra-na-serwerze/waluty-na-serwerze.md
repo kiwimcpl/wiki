@@ -11,7 +11,9 @@ Na serwerze funkcjonują dwie waluty:&#x20;
 
 ### Jak zdobyć dolary?
 
-todo
+* Za czas gry, każda minuta spędzona na serwerze to dwa centy. Niewiele ale nic nie trzeba robić.
+* Sprzedając przedmioty na spawnie ([sklep-na-spawnie.md](sklep-na-spawnie.md "mention"))
+* Handlując z innymi graczami ([sklepy-graczy.md](sklepy-graczy.md "mention"))
 
 ### Jak zdobyć Koiny?
 
