@@ -20,6 +20,7 @@ Ta wiki dopiero co powstaje. Generalnie dobrze mi idzie i kiedyś skończe, jeś
 * **Nonpremium**
 * Brak mikrotransakcji
 * Nielimitowane rozmiarem wyspy
-* Polecenie `/fly` dostępne dla każdego członka danej wyspy
+* Polecenie `/fly` dostępne dla każdego członka wyspy
+* Zaawansowane opcje zarządzania światem - w tym blokowanie spawnu fantomów/slime, pvp, cyklu dobowego, pogody oraz poziomu trudności.
 
 ###
