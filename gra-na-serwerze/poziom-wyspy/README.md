@@ -27,7 +27,7 @@ Wymagany XP na następny poziom jest liczony w trzech etapach:
 
 Informacje na ten temat otrzymasz po wpisaniu polecenia `/is info`.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Za co wyspa może otrzymać doświadczenie?
 
